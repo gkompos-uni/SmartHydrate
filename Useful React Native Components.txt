@@ -1,0 +1,16 @@
+Useful React Native Components
+
+
+1. Bouncy Checkbox: https://github.com/WrathChaos/react-native-bouncy-checkbox
+2. Bottom Sheet: https://github.com/gorhom/react-native-bottom-sheet
+3. Gifted Chat: https://github.com/FaridSafi/react-native-gifted-chat
+4. Charts: https://github.com/FormidableLabs/victory-native-xl
+5. Toast: https://github.com/calintamas/react-native-toast-message
+6. Skeleton: https://github.com/danilowoz/react-content-loader
+7. Pager View: https://github.com/callstack/react-native-pager-view
+8. Blur View: https://docs.expo.dev/versions/latest/sdk/blur-view/
+9. Calendar: https://docs.expo.dev/versions/latest/sdk/blur-view/
+10. FlashList: https://shopify.github.io/flash-list/
+
+
+Reference: https://www.youtube.com/watch?v=wsZ_mjXk6Hg
